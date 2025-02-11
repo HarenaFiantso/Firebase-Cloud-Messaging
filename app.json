@@ -16,7 +16,8 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.fiantsoravoajanahary.todoapp"
+      "package": "com.fiantsoravoajanahary.todoapp",
+      "googleServicesFile": "./google-services.json"
     },
     "web": {
       "bundler": "metro",
